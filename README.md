@@ -1,1 +1,3 @@
 # bootcamp-package-logger
+
+###Example
