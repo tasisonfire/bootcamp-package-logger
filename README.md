@@ -1,5 +1,6 @@
 # bootcamp-package-logger
 
 ###Example
-hi!
-hi!!
+logger.success("green");
+logger.warn("yellow");
+logger.error("red");
