@@ -1,6 +1,6 @@
 require("colors");
 
-console.log("hi".bgBlack);
+// console.log("hi".bgBlack);
 
 const { TYPES } = require("./helper");
 
@@ -27,9 +27,9 @@ const log = () => {
   };
 };
 
-const logger = log();
-logger.success("green");
-logger.warn("yellow");
-logger.error("red");
+// const logger = log();
+// logger.success("green");
+// logger.warn("yellow");
+// logger.error("red");
 
 module.exports = log;
