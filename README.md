@@ -4,3 +4,4 @@
 logger.success("green");
 logger.warn("yellow");
 logger.error("red");
+logger.rainbow("rainbow")
